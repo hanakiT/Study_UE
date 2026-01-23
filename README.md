@@ -5,8 +5,9 @@
 - mainへのプッシュ禁止
 
 - ブランチ
-- main→UE5.6
+- main→UE5.7
 - 5.7→UE5.7
+- 5.6→UE5.6
 - 5.5→UE5.5
 
 ## 勉強会用テンプレートプロジェクトへの機能追加
@@ -51,5 +52,6 @@
 - サイト
   - [株式会社ヒストリア](https://historia.co.jp/archives/)
   - [ゲームメーカーズ](https://gamemakers.jp/)
+
 
 
